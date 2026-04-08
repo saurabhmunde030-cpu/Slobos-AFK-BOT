@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "Technoblade",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "WhiterSmp991.aternos.me",
@@ -37,7 +37,7 @@
     },
     "chat-log": true,
     "auto-reconnect": false,
-    "auto-reconnect-delay": 0,
+    "auto-reconnect-delay": 200000,
     "max-reconnect-delay": 20000,
     "periodic-rejoin": {
       "enabled": true,
