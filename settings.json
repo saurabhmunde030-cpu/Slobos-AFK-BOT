@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "WhiterSmp991.aternos.me",
-    "port": 43358,
+    "ip": "Dolakpur911.aternos.me",
+    "port": 18492,
     "version": "1.21.11"
   },
   "position": {
@@ -58,7 +58,7 @@
     },
     "random-jump": {
       "enabled": true,
-      "interval": 10000000000
+      "interval": 1000
     }
   },
   "modules": {
